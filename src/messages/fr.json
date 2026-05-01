@@ -1,0 +1,243 @@
+{
+  "nav": {
+    "about": "À propos",
+    "services": "Offres",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "process": "Process",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "available": "Disponible"
+  },
+  "hero": {
+    "title": "Neexx",
+    "subtitle": "Développeur web full-stack",
+    "description": "Des sites web qui font la différence pour votre business",
+    "cta_projects": "Voir mes projets",
+    "cta_contact": "Me contacter",
+    "scroll": "Défiler",
+    "available_badge": "Disponible pour de nouveaux projets",
+    "typewriter": ["Sites vitrines", "E-commerce", "Web apps", "Intégrations IA", "Bots Discord"]
+  },
+  "about": {
+    "tag": "À propos de moi",
+    "title": "Passionné de code depuis l'âge de 13 ans",
+    "story": "J'ai écrit ma première ligne de code à 13 ans. Six ans plus tard, je n'ai toujours pas lâché le clavier.",
+    "story2": "Étudiant à Epitech et auto-entrepreneur, je conçois des expériences web modernes, performantes et mémorables — du design à la mise en production.",
+    "story3": "Chaque projet est une opportunité de créer quelque chose qui fait vraiment la différence pour mon client.",
+    "stat1_value": "6+",
+    "stat1_label": "Années d'expérience",
+    "stat2_value": "10+",
+    "stat2_label": "Projets réalisés",
+    "stat3_value": "100%",
+    "stat3_label": "Clients satisfaits",
+    "stat4_value": "24h",
+    "stat4_label": "Temps de réponse",
+    "badge_school": "Epitech",
+    "badge_location": "Riedisheim, Grand Est",
+    "badge_status": "Auto-entrepreneur"
+  },
+  "services": {
+    "tag": "Mes Offres",
+    "title": "Choisissez votre package",
+    "subtitle": "Des solutions sur-mesure pour tous les budgets",
+    "popular_badge": "⭐ POPULAIRE",
+    "custom_title": "💡 Besoin d'un projet sur-mesure ou différent ?",
+    "custom_description": "Bots Discord, intégrations IA, refontes complexes, web apps...",
+    "custom_cta": "Contactez-moi pour un devis gratuit",
+    "packages": [
+      {
+        "icon": "Globe",
+        "name": "Starter Site",
+        "tagline": "Idéal pour démarrer en ligne",
+        "price": "80",
+        "subtitle": "Site web 1 page",
+        "cta": "Commander",
+        "isPopular": false,
+        "features": [
+          "Design moderne et 100 % responsive",
+          "Visible sur Google (SEO de base)",
+          "Formulaire de contact intégré",
+          "Réseaux sociaux connectés",
+          "Livraison en 5 jours",
+          "2 révisions incluses",
+          "Support gratuit 30 jours"
+        ]
+      },
+      {
+        "icon": "Briefcase",
+        "name": "Pro Business",
+        "tagline": "Le choix parfait pour faire grandir votre business",
+        "price": "200",
+        "subtitle": "Site web 5 pages sur-mesure",
+        "cta": "Commander maintenant",
+        "isPopular": true,
+        "features": [
+          "Tout du package Starter",
+          "Design unique adapté à votre marque",
+          "Jusqu'à 5 pages personnalisées",
+          "Encore mieux référencé sur Google",
+          "Site ultra-rapide et optimisé",
+          "Formulaire d'inscription newsletter",
+          "Animations modernes",
+          "Livraison en 7 jours",
+          "3 révisions incluses",
+          "Support gratuit 30 jours"
+        ]
+      },
+      {
+        "icon": "Crown",
+        "name": "Premium Custom",
+        "tagline": "La solution complète pour les pros",
+        "price": "450",
+        "subtitle": "Site web 10 pages premium",
+        "cta": "Commander",
+        "isPopular": false,
+        "features": [
+          "Tout du package Pro Business",
+          "Jusqu'à 10 pages premium",
+          "Design haut de gamme avec animations",
+          "Boutique en ligne intégrée",
+          "Paiement sécurisé (Stripe / PayPal)",
+          "Hébergement configuré pour vous",
+          "Référencement Google complet",
+          "Livraison en 14 jours",
+          "Révisions illimitées",
+          "Support gratuit 30 jours",
+          "Formation à la gestion du site (30 min)"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "tag": "Mes réalisations",
+    "title": "Projets",
+    "subtitle": "Chaque ligne de code, pensée pour l'impact.",
+    "wolffuel": {
+      "title": "WolfFuel",
+      "catchphrase": "Le comparateur de prix de carburants nouvelle génération en France",
+      "description": "WolfFuel est un service web que j'ai conçu et développé de A à Z, qui permet aux automobilistes français de trouver la station-service la moins chère autour d'eux en temps réel. Le site embarque un système d'authentification complet (Google OAuth + email), une carte interactive, un système d'abonnement premium (Wolf Pro à 2,99€/mois) avec paiement PayPal, ainsi qu'une interface dark/purple immersive avec animations canvas. Tout l'écosystème — front, back, base de données, paiements, déploiement — a été construit en solo.",
+      "cta": "Visiter le site",
+      "badge": "Projet solo · Full-stack"
+    },
+    "coming_soon": {
+      "title": "D'autres projets en cours",
+      "description": "Je travaille actuellement sur plusieurs autres projets (web apps, bots IA, sites clients) qui seront ajoutés ici très bientôt. Pour voir des exemples, contactez-moi directement."
+    }
+  },
+  "skills": {
+    "tag": "Mes compétences",
+    "title": "Stack technique",
+    "subtitle": "Les technologies que je maîtrise pour livrer des projets de qualité.",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "ai": "IA & Bots",
+      "tools": "Outils"
+    }
+  },
+  "process": {
+    "tag": "Comment je travaille",
+    "title": "Un process clair, du début à la fin",
+    "subtitle": "Transparent, rigoureux, réactif — vous savez toujours où en est votre projet.",
+    "cta": "Démarrer mon projet",
+    "steps": [
+      {
+        "icon": "MessageCircle",
+        "title": "Échange initial",
+        "description": "On discute de votre projet, vos besoins, vos objectifs. Gratuit, sans engagement."
+      },
+      {
+        "icon": "FileText",
+        "title": "Devis détaillé",
+        "description": "Je vous propose un plan clair avec délais précis, jalons et tarifs transparents."
+      },
+      {
+        "icon": "Code2",
+        "title": "Développement",
+        "description": "Je code avec des mises à jour régulières. Vous pouvez suivre l'avancement en temps réel."
+      },
+      {
+        "icon": "Rocket",
+        "title": "Livraison & support",
+        "description": "Site livré et déployé. Support technique inclus pendant 30 jours après la mise en ligne."
+      }
+    ]
+  },
+  "faq": {
+    "tag": "Questions fréquentes",
+    "title": "FAQ",
+    "subtitle": "Tout ce que vous devez savoir avant de vous lancer.",
+    "other_question": "Vous avez une autre question ?",
+    "cta": "Poser ma question",
+    "items": [
+      {
+        "question": "Combien coûte un site web ?",
+        "answer": "Les tarifs varient selon le package choisi : Starter à 80€, Pro Business à 200€, ou Premium Custom à 450€. Je fournis aussi des devis personnalisés pour des projets hors package."
+      },
+      {
+        "question": "Quels sont les délais ?",
+        "answer": "Starter : 5 jours. Pro Business : 7 jours. Premium Custom : 14 jours. Les délais sont garantis dans le contrat Fiverr."
+      },
+      {
+        "question": "Comment se passe le paiement ?",
+        "answer": "Le paiement se fait via Fiverr (carte bancaire, PayPal) ou directement par virement. Je demande 50% à la signature pour les projets hors Fiverr."
+      },
+      {
+        "question": "Tu fournis l'hébergement ?",
+        "answer": "Je déploie sur les meilleures plateformes (Vercel, Supabase) et je peux gérer l'hébergement pour vous. Je vous explique tout et vous reste propriétaire de votre infrastructure."
+      },
+      {
+        "question": "Et si je veux modifier le site après ?",
+        "answer": "Les 30 premiers jours de support sont inclus dans chaque package. Après, je propose des forfaits de maintenance ou des modifications à la demande."
+      },
+      {
+        "question": "Tu travailles uniquement en France ?",
+        "answer": "Non ! Je travaille avec des clients partout en Europe et dans le monde. Tout se passe en ligne — visio, messagerie, livraison digitale. Pas de frontières."
+      },
+      {
+        "question": "Es-tu disponible pour de longues missions ?",
+        "answer": "Oui, je suis disponible pour des missions de longue durée (TJM ou forfait mensuel), notamment pour des startups ou des entreprises qui cherchent un développeur freelance régulier."
+      }
+    ]
+  },
+  "contact": {
+    "tag": "On travaille ensemble ?",
+    "title": "Contactez-moi",
+    "subtitle": "Un projet en tête ? Parlons-en. Je réponds en moins de 24h.",
+    "available": "Disponible pour de nouveaux projets",
+    "direct_contact": "Contact direct",
+    "practical_info": "Infos pratiques",
+    "info_response": "Temps de réponse",
+    "info_response_value": "< 24h",
+    "info_availability": "Disponibilité",
+    "info_availability_value": "Immédiate",
+    "info_location": "Localisation",
+    "info_location_value": "Riedisheim, France",
+    "info_remote": "Mode de travail",
+    "info_remote_value": "100% remote",
+    "form": {
+      "name": "Votre nom",
+      "email": "Votre email",
+      "project_type": "Type de projet",
+      "project_types": ["Site vitrine", "E-commerce", "Web App", "Intégration IA", "Bot Discord", "Autre"],
+      "message": "Décrivez votre projet",
+      "submit": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé ! Je vous réponds sous 24h.",
+      "error": "Erreur lors de l'envoi. Réessayez ou contactez-moi directement."
+    },
+    "links": {
+      "email": "Email",
+      "fiverr": "Fiverr",
+      "malt": "Malt"
+    }
+  },
+  "footer": {
+    "tagline": "Développeur web full-stack — Riedisheim, France",
+    "links_title": "Navigation",
+    "legal": "Entreprise individuelle — SIRET en cours d'enregistrement",
+    "copyright": "© 2026 Neexx. Tous droits réservés.",
+    "made_with": "Fait avec passion à Riedisheim"
+  }
+}

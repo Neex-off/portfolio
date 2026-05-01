@@ -1,0 +1,243 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Packages",
+    "projects": "Projects",
+    "skills": "Skills",
+    "process": "Process",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "available": "Available"
+  },
+  "hero": {
+    "title": "Neexx",
+    "subtitle": "Full-stack Web Developer",
+    "description": "Websites that make a real difference for your business",
+    "cta_projects": "View my projects",
+    "cta_contact": "Get in touch",
+    "scroll": "Scroll",
+    "available_badge": "Available for new projects",
+    "typewriter": ["Showcase sites", "E-commerce", "Web apps", "AI integrations", "Discord bots"]
+  },
+  "about": {
+    "tag": "About me",
+    "title": "Passionate about code since age 13",
+    "story": "I wrote my first line of code at 13. Six years later, I still haven't put the keyboard down.",
+    "story2": "Epitech student and freelancer, I craft modern, performant, and memorable web experiences — from design to deployment.",
+    "story3": "Every project is an opportunity to create something that truly makes a difference for my client.",
+    "stat1_value": "6+",
+    "stat1_label": "Years of experience",
+    "stat2_value": "10+",
+    "stat2_label": "Projects delivered",
+    "stat3_value": "100%",
+    "stat3_label": "Satisfied clients",
+    "stat4_value": "24h",
+    "stat4_label": "Average response time",
+    "badge_school": "Epitech",
+    "badge_location": "Riedisheim, Grand Est",
+    "badge_status": "Freelancer"
+  },
+  "services": {
+    "tag": "My Packages",
+    "title": "Choose your package",
+    "subtitle": "Custom solutions for every budget",
+    "popular_badge": "⭐ MOST POPULAR",
+    "custom_title": "💡 Need a custom or different project?",
+    "custom_description": "Discord bots, AI integrations, complex redesigns, web apps...",
+    "custom_cta": "Contact me for a free quote",
+    "packages": [
+      {
+        "icon": "Globe",
+        "name": "Starter Site",
+        "tagline": "Perfect to get started online",
+        "price": "80",
+        "subtitle": "1-page website",
+        "cta": "Order now",
+        "isPopular": false,
+        "features": [
+          "Modern, fully responsive design",
+          "Show up on Google (basic SEO)",
+          "Integrated contact form",
+          "Social media connected",
+          "Delivered in 5 days",
+          "2 revisions included",
+          "Free 30-day support"
+        ]
+      },
+      {
+        "icon": "Briefcase",
+        "name": "Pro Business",
+        "tagline": "The perfect choice to grow your business",
+        "price": "200",
+        "subtitle": "5-page custom website",
+        "cta": "Order now",
+        "isPopular": true,
+        "features": [
+          "Everything in Starter",
+          "Unique design tailored to your brand",
+          "Up to 5 custom pages",
+          "Rank higher on Google",
+          "Ultra-fast, optimized site",
+          "Newsletter signup form",
+          "Modern animations",
+          "Delivered in 7 days",
+          "3 revisions included",
+          "Free 30-day support"
+        ]
+      },
+      {
+        "icon": "Crown",
+        "name": "Premium Custom",
+        "tagline": "The complete solution for serious businesses",
+        "price": "450",
+        "subtitle": "10-page premium website",
+        "cta": "Order now",
+        "isPopular": false,
+        "features": [
+          "Everything in Pro Business",
+          "Up to 10 premium pages",
+          "High-end design with animations",
+          "Integrated online store",
+          "Secure payments (Stripe / PayPal)",
+          "Hosting configured for you",
+          "Full Google SEO setup",
+          "Delivered in 14 days",
+          "Unlimited revisions",
+          "Free 30-day support",
+          "Site management training (30 min)"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "tag": "My work",
+    "title": "Projects",
+    "subtitle": "Every line of code, crafted for impact.",
+    "wolffuel": {
+      "title": "WolfFuel",
+      "catchphrase": "The next-generation fuel price comparison platform in France",
+      "description": "WolfFuel is a web service I designed and built from the ground up, helping French drivers find the cheapest gas station around them in real time. The platform features full authentication (Google OAuth + email), an interactive map, a premium subscription system (Wolf Pro at €2.99/month) powered by PayPal, and an immersive dark/purple interface with canvas animations. The entire stack — frontend, backend, database, payments, deployment — was built solo.",
+      "cta": "Visit the site",
+      "badge": "Solo project · Full-stack"
+    },
+    "coming_soon": {
+      "title": "More projects in progress",
+      "description": "I'm currently working on several other projects (web apps, AI bots, client sites) that will be added here very soon. To see examples, contact me directly."
+    }
+  },
+  "skills": {
+    "tag": "My skills",
+    "title": "Tech stack",
+    "subtitle": "The technologies I master to deliver quality projects.",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "ai": "AI & Bots",
+      "tools": "Tools"
+    }
+  },
+  "process": {
+    "tag": "How I work",
+    "title": "A clear process, start to finish",
+    "subtitle": "Transparent, rigorous, responsive — you always know where your project stands.",
+    "cta": "Start my project",
+    "steps": [
+      {
+        "icon": "MessageCircle",
+        "title": "Initial call",
+        "description": "We discuss your project, needs, and goals. Free, no commitment required."
+      },
+      {
+        "icon": "FileText",
+        "title": "Detailed quote",
+        "description": "I provide a clear plan with precise deadlines, milestones, and transparent pricing."
+      },
+      {
+        "icon": "Code2",
+        "title": "Development",
+        "description": "I code with regular updates. You can track progress in real time."
+      },
+      {
+        "icon": "Rocket",
+        "title": "Delivery & support",
+        "description": "Site delivered and deployed. Technical support included for 30 days after launch."
+      }
+    ]
+  },
+  "faq": {
+    "tag": "Common questions",
+    "title": "FAQ",
+    "subtitle": "Everything you need to know before getting started.",
+    "other_question": "Have another question?",
+    "cta": "Ask my question",
+    "items": [
+      {
+        "question": "How much does a website cost?",
+        "answer": "Prices depend on the package: Starter at €80, Pro Business at €200, or Premium Custom at €450. I also provide custom quotes for projects outside the packages."
+      },
+      {
+        "question": "How long does it take?",
+        "answer": "Starter: 5 days. Pro Business: 7 days. Premium Custom: 14 days. Deadlines are guaranteed in the Fiverr contract."
+      },
+      {
+        "question": "How does payment work?",
+        "answer": "Payment goes through Fiverr (credit card, PayPal) or directly by bank transfer. I ask for 50% upfront for projects outside Fiverr."
+      },
+      {
+        "question": "Do you provide hosting?",
+        "answer": "I deploy on the best platforms (Vercel, Supabase) and can manage hosting for you. I explain everything and you remain the owner of your infrastructure."
+      },
+      {
+        "question": "What if I want to modify the site afterward?",
+        "answer": "The first 30 days of support are included in every package. After that, I offer maintenance packages or on-demand modifications."
+      },
+      {
+        "question": "Do you only work with French clients?",
+        "answer": "Not at all! I work with clients across Europe and worldwide. Everything happens online — video calls, messaging, digital delivery. No borders."
+      },
+      {
+        "question": "Are you available for long-term projects?",
+        "answer": "Yes, I'm available for long-term engagements (daily rate or monthly retainer), especially for startups or companies looking for a regular freelance developer."
+      }
+    ]
+  },
+  "contact": {
+    "tag": "Let's work together?",
+    "title": "Contact me",
+    "subtitle": "Have a project in mind? Let's talk. I respond within 24 hours.",
+    "available": "Available for new projects",
+    "direct_contact": "Direct contact",
+    "practical_info": "Practical info",
+    "info_response": "Response time",
+    "info_response_value": "< 24h",
+    "info_availability": "Availability",
+    "info_availability_value": "Immediate",
+    "info_location": "Location",
+    "info_location_value": "Riedisheim, France",
+    "info_remote": "Work mode",
+    "info_remote_value": "100% remote",
+    "form": {
+      "name": "Your name",
+      "email": "Your email",
+      "project_type": "Project type",
+      "project_types": ["Showcase site", "E-commerce", "Web App", "AI Integration", "Discord Bot", "Other"],
+      "message": "Describe your project",
+      "submit": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent! I'll get back to you within 24h.",
+      "error": "Error sending. Please try again or contact me directly."
+    },
+    "links": {
+      "email": "Email",
+      "fiverr": "Fiverr",
+      "malt": "Malt"
+    }
+  },
+  "footer": {
+    "tagline": "Full-stack web developer — Riedisheim, France",
+    "links_title": "Navigation",
+    "legal": "Sole trader — Registration in progress",
+    "copyright": "© 2026 Neexx. All rights reserved.",
+    "made_with": "Made with passion in Riedisheim"
+  }
+}
